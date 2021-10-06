@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "id_customer":"kos1",
+        "name": "Fajar Rezky B",
+        "phone": "081244556677",
+        "address": "Jl. Soekarjo"
+    },
+    {
+        "id": 2,
+        "id_customer":"kos2",
+        "name": "Aziza Idana E",
+        "phone": "082283814499",
+        "address": "Jl. Sultan Mahmudin"
+    },
+    {
+        "id": 3,
+        "id_customer":"kos3",
+        "name": "Ramadiansyah",
+        "phone": "082283817337",
+        "address": "Jl. Benjamin"
+    },
+    {
+        "id": 4,
+        "name": "Reza Andika",
+        "id_customer":"kos4",
+        "phone": "0778-838-755",
+        "address": "Jl. Hanglekir"
+    }
+]

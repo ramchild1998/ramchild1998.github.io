@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "kd_produk":"menu01",
+        "name":"Kopi Aceh Gayo",
+        "price":10,
+        "quantity":50
+    },
+    {
+        "id":2,
+        "kd_produk":"menu02",
+        "name":"Kopi Threesixty",
+        "price":18,
+        "quantity":50
+    },
+    {
+        "id":3,
+        "kd_produk":"menu03",
+        "name":"Kopi Riang",
+        "price":18,
+        "quantity":50
+    },
+    {
+        "id":4,
+        "kd_produk":"menu04",
+        "name":"Teh Lemonande",
+        "price":10,
+        "quantity":50
+    },
+    {
+        "id":5,
+        "kd_produk":"menu05",
+        "name":"Kopi Susu Khas stlsny",
+        "price":17,
+        "quantity":50
+    },
+    {
+        "id":6,
+        "kd_produk":"menu06",
+        "name":"Kopi Jaber",
+        "price":19,
+        "quantity":50
+    }
+]
